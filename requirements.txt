@@ -1,0 +1,11 @@
+# requirements.txt
+## python==3.13.2
+vnpy==4.1.0
+notebook
+polars
+numpy
+pandas
+xgboost
+plotly
+torch
+torchvision

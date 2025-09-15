@@ -62,7 +62,7 @@ Trading Strategy Demo/
 ## Installation Guide
 
 1. **Prerequisites**
-   - Python 3.7 or higher
+   - Python 3.13 or higher
    - VNPY platform installed
    - Required packages:
      ```bash
@@ -72,13 +72,13 @@ Trading Strategy Demo/
 2. **Setup Instructions**
    ```bash
    # Clone the repository
-   git clone <repository-url>
+   git clone <https://github.com/William-M-Ricardo/Quantitative-Finance-Research.git>
    
    # Navigate to project directory
-   cd trading-strategy-demo
+   cd Quantitative-Finance-Research
    
    # Install dependencies
-   pip install -r requirements.txt(Currently None)
+   pip install -r requirements.txt
    ```
 
 ## Usage Instructions
