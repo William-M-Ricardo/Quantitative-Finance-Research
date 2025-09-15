@@ -1,6 +1,6 @@
-# Trading Strategy Demo 
+# Quantitative Finance Research
 ## Author: WilliamRichardXiao
-## Email: xiaozhentao@mail.nwpu.edu.cn
+## Email: 1198672931@qq.com
 This repository contains a collection of quantitative trading strategies implemented. The project includes both traditional CTA strategies and modern machine learning approaches for financial market prediction and trading.
 
 ## Project Structure
