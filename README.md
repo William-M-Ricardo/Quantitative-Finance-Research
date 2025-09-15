@@ -138,7 +138,7 @@ Strategies are evaluated using standard quantitative metrics:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+None
 
 ## Acknowledgments
 
